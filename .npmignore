@@ -1,0 +1,41 @@
+# Source code
+src/
+tests/
+test/
+__tests__/
+*.test.js
+*.spec.js
+
+# Development configs
+.github/
+.vscode/
+.idea/
+.editorconfig
+.eslintrc*
+.prettierrc*
+.babelrc
+jest.config.js
+tsconfig.json
+
+# Documentation
+docs/
+documentation/
+*.md
+!README.md
+
+# Build tools
+webpack.config.js
+rollup.config.js
+gulpfile.js
+
+# Git related
+.git/
+.gitignore
+.gitattributes
+
+# Misc
+.DS_Store
+*.log
+coverage/
+node_modules/
+.env* 
