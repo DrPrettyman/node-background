@@ -1,6 +1,6 @@
-# Node Background Component
+# Animated Network Background Component
 
-A React component that creates an interactive, animated background with floating nodes and dynamic connections. The component supports both light and dark modes and is fully responsive.
+A React component that creates an animated background for your website with floating nodes and dynamic connections. The component supports both light and dark modes and is fully responsive.
 
 ## Features
 
@@ -15,10 +15,14 @@ A React component that creates an interactive, animated background with floating
 
 Add the `NodeBackground` component to your React project:
 
+```bash
+npm install animated-network-background
+```
+
 ## Usage
 
 ```jsx
-import { NodeBackground } from 'react-node-background';
+import { NodeBackground } from 'animated-network-background';
 
 function App() {
   return (

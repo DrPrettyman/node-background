@@ -1,5 +1,5 @@
 {
-    "name": "react-node-background",
+    "name": "animated-network-background",
     "version": "1.0.0",
     "description": "Animated node network background component for React",
     "main": "dist/index.js",
