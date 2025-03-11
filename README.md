@@ -4,22 +4,11 @@ A React component that creates an animated background for your website with floa
 
 ## Demo
 
-<div align="center">
-  <div>
-    <button onclick="toggleDemoImage()" style="margin-bottom: 10px; padding: 8px 16px; border-radius: 4px; border: 1px solid #ccc; cursor: pointer;">
-      Toggle Light/Dark Demo
-    </button>
-  </div>
-  <img id="demoImage" alt="Animated Network Background Demo" src="demo/demo-dark.gif" style="max-width: 100%;">
-</div>
+### Light Mode
+![Light Mode Demo](demo/demo-light.gif)
 
-<script>
-  function toggleDemoImage() {
-    const img = document.getElementById('demoImage');
-    const isDark = img.src.includes('demo-dark.gif');
-    img.src = isDark ? 'demo/demo-light.gif' : 'demo/demo-dark.gif';
-  }
-</script>
+### Dark Mode
+![Dark Mode Demo](demo/demo-dark.gif)
 
 ## Features
 
