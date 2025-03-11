@@ -2,6 +2,10 @@
 
 A React component that creates an animated background for your website with floating nodes and dynamic connections. The component supports both light and dark modes and is fully responsive.
 
+## Demo
+
+![Animated Network Background Demo](demo/demo-dark.gif)
+
 ## Features
 
 - Animated floating nodes with connecting lines
