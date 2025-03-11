@@ -1,1 +1,1 @@
-export { default } from './NodeBackground';
+export { default } from './NodeBackground.jsx';
