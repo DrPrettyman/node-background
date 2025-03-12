@@ -1,6 +1,6 @@
 # Animated Network Background Component
 
-A React component that creates an animated background for your website with floating nodes and dynamic connections. The component supports both light and dark modes and is fully responsive.
+A React component that creates an animated background for your website with floating nodes and dynamic connections. The component supports both light and dark modes (pass different background colors as props) and is fully responsive.
 
 ## Demo
 
